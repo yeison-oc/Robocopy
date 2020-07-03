@@ -19,9 +19,12 @@ versión superior de Windows 7.
 Descargue el archivo en formato ZIP y ejecute como administrador el archivo
 llamado "Robocopy (Ejecutar como administrador).bat".
 
-Solo se aceptan nombres de carpetas, no funciona con archivos en solitario.
+Solo se aceptan nombres de carpetas/ubicaciones de red, no funciona con archivos en solitario.
 
-Recuerde que se copia el contenido de una carpeta a otra.
+#### Notas
+
+* Recuerde que se copia el contenido de una carpeta a otra.
+* Si piensa hacerlo en equipos en red, debe compartir la(s) carpeta(s) en la red.
 
 ## Construido con 🛠️
 
@@ -30,7 +33,7 @@ Recuerde que se copia el contenido de una carpeta a otra.
 
 ## Autores ✒️
 
-* **Yeison Orozco** - *Trabajo Inicial* - [Github](https://gist.github.com/yeison-oc)[Twitter](https://twitter.com/yeison__oc)
+* **Yeison Orozco** - *Trabajo Inicial* - 💻 [Github](https://gist.github.com/yeison-oc)­­ - 📱 [Twitter](https://twitter.com/yeison__oc)
 
 ### Gracias 🎁
 
